@@ -1,0 +1,6 @@
+services:
+- docker
+
+script:
+- docker build -t oauth2-proxy .
+- docker run --rm oauth2-proxy --version
