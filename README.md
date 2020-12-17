@@ -1,3 +1,5 @@
+![Actions Status](https://github.com/ome/docker-oauth-proxy/workflows/Build/badge.svg)](https://github.com/ome/docker-oauth-proxy/actions)
+
 # OAuth2 Proxy Docker image
 
 https://github.com/bitly/oauth2_proxy
